@@ -1,0 +1,5 @@
+dist
+node_modules
+dist-storybook
+e2e/__screenshots__
+e2e/__videos__
