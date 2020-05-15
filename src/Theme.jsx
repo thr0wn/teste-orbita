@@ -49,8 +49,11 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    font-family: "Roboto Regular;
+    font-family: "Roboto Regular";
     letter-spacing: 0px;
+    background-color: ${({ theme }) => theme.colors.white1};
+    width: 100%;
+    height: 100%;
   }
 `;
 

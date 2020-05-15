@@ -1,6 +1,6 @@
 import styled, { css } from "styled-components";
 
-export const Text = styled.p`
+export const Text = styled.span`
   ${({ theme, fontFamily, fontSize, lineHeight, color }) => css`
     font-family: ${theme.fontFamilies[fontFamily] ||
     theme.fontFamilies.regular};

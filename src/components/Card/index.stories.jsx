@@ -47,7 +47,7 @@ export const Basic = () => (
         <Text fontSize="xsmall" color="grey2">
           R$&nbsp;
           <Text fontSize="medium" color="green">
-            4,65
+            47,32
           </Text>
         </Text>
       </div>
