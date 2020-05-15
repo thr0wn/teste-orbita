@@ -1,5 +1,5 @@
 import React from "react";
-import ThemeProvider from "./theme";
+import ThemeProvider from "./Theme";
 import HorizontalScroller from "./components/HorizontalScroller";
 import Card from "./components/Card";
 import CardHeader from "./components/Card/CardHeader";

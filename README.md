@@ -1,6 +1,6 @@
 # Teste - Orbita
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1c198d0e-0f14-4690-ba01-bfb24345cf75/deploy-status)](https://app.netlify.com/sites/relaxed-kowalevski-2f0a93/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bb0135e8-1ba9-465c-b3c5-fcc69dcac336/deploy-status)](https://app.netlify.com/sites/vigilant-jang-09c467/deploys)
 
 [![](https://img.shields.io/badge/-React.js-blue?logo=react)]()
 [![](https://img.shields.io/badge/-Storybook-blue?logo=Storybook)]()
@@ -8,12 +8,12 @@
 [![Code Style](https://badgen.net/badge/code%20style/airbnb/ff5a5f?icon=airbnb)](https://github.com/airbnb/javascript)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-Demo: link1
+Demo: https://vigilant-jang-09c467.netlify.app
 
-Storybook Demo: link1/storybook
+Storybook Demo: https://vigilant-jang-09c467.netlify.app/storybook
 
-[![](http://i.imgur.com/7NS8JLg.png)](link1)
-[![](http://i.imgur.com/YQLQA5e.png)](link1)
+[![](http://i.imgur.com/7NS8JLg.png)](htps://vigilant-jang-09c467.netlify.app)
+[![](http://i.imgur.com/YQLQA5e.png)](htps://vigilant-jang-09c467.netlify.app)
 
 ## Comandos
 
