@@ -7,7 +7,9 @@
 ## Visão geral da arquitetura
 ---
 A arquitetura pode ser subdividida em dois microsserviços:
+
 * Recebimento do consumo de dados
+
 * Processamento de fatura 
 
 ## Recebimento do consumo de dados
